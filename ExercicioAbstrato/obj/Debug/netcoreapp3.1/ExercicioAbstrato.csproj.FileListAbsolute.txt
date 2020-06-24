@@ -1,0 +1,11 @@
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\bin\Debug\netcoreapp3.1\ExercicioAbstrato.exe
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\bin\Debug\netcoreapp3.1\ExercicioAbstrato.deps.json
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\bin\Debug\netcoreapp3.1\ExercicioAbstrato.runtimeconfig.json
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\bin\Debug\netcoreapp3.1\ExercicioAbstrato.runtimeconfig.dev.json
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\bin\Debug\netcoreapp3.1\ExercicioAbstrato.dll
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\bin\Debug\netcoreapp3.1\ExercicioAbstrato.pdb
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\obj\Debug\netcoreapp3.1\ExercicioAbstrato.csprojAssemblyReference.cache
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\obj\Debug\netcoreapp3.1\ExercicioAbstrato.AssemblyInfoInputs.cache
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\obj\Debug\netcoreapp3.1\ExercicioAbstrato.AssemblyInfo.cs
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\obj\Debug\netcoreapp3.1\ExercicioAbstrato.dll
+C:\Curso C#\course01\Sessao 10 Heranca e Polimorfiso\ExercicioAbstrato\ExercicioAbstrato\obj\Debug\netcoreapp3.1\ExercicioAbstrato.pdb
